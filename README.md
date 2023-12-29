@@ -17,7 +17,7 @@ Week 8:
  - Abstract, destructor, base class pointer, polymorthism
 
 Week 9:
- - smart pointers 
+ - [smart pointers](https://github.com/BenGavan/PHYS30762-Cpp/tree/main/Week_9/pre-lecture/smart_ptr) 
  - basic headers
  - function template
  - namespaces 
